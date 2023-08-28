@@ -12,13 +12,6 @@
       "value_constraint": "connection"
     }
   },
-  "user_attributes": {
-    "activated": {
-      "label": "Activated",
-      "type": "yesno",
-      "default_value": "no"
-    }
-  },
   "models": [
     {
       "name": "sisu-insights",

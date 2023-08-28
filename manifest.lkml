@@ -4,9 +4,9 @@
 project_name: "sisu-insights"
 application: sisu-insights {
   label: "Sisu Insights"
-  sri_hash: "3CzELbNEtbR3gX7aWLtRKhP6e9i3AaC+fefPT3U0hPv0HEA1Ei27Pwtl0EVhqMZ4"
-  file: "sisu-insights.js"
-  
+  sri_hash: "Gf3tscucIhl6TxNlGm/IzZ9OTMEkcPFuIuHZXd7oa2MBR9XhtsW64uXF+uPPbwkR"
+  file: "bundle.js"
+
   entitlements: {
     use_embeds: yes
     use_form_submit: yes
