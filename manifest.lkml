@@ -4,7 +4,7 @@
 project_name: "sisu-insights"
 application: sisu-insights {
   label: "Sisu Insights"
-  sri_hash: "Gf3tscucIhl6TxNlGm/IzZ9OTMEkcPFuIuHZXd7oa2MBR9XhtsW64uXF+uPPbwkR"
+  sri_hash: "fB/qb/YiFA+Ty+bAD4UMobPEsvG1QfE+7679uur/CwZoFfL2gvaatpEShTBt/Gfi"
   file: "bundle.js"
 
   entitlements: {
