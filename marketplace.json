@@ -17,7 +17,7 @@
       "label": "Activated",
       "type": "yesno",
       "default_value": "no",
-      "readonly": true
+      "unmodifiable": true
     }
   },
   "models": [
